@@ -1,0 +1,4 @@
+Challenging, many things aren't showed clearly in the instruction. I have to search for more foundamental
+concept or manipulation of Linux myself. Overall the instructions are just great, and left more space for
+self-exploring.
+
