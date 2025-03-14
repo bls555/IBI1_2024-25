@@ -5,7 +5,11 @@ bmi=wt/(ht*ht)
 print("BMI:",bmi)
 if bmi<18.5:
     print("Underweight")
-elif bmi>=18.5 and bmi<24.9:
+elif bmi>=18.5 and bmi<30:
     print("Normal weight")
-elif bmi>=25:
+elif bmi>=30:
     print("Obese")
+
+
+
+
