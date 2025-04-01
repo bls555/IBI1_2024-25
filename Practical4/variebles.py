@@ -6,6 +6,7 @@ e=5
 f=d+e#95
 print(c>e)#if print True c is longer
 #I see "compare c to e in the practical, but I think there was something wrong with that, c and e dont indicate different methods
+#compare c to f
 print(c<f)#print True, walk+bus is shorter than car
 X=True
 Y=False
