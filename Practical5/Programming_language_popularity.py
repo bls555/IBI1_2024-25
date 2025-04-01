@@ -5,7 +5,6 @@
 #output the popularity of the language
 
 languag={'JavaScript':62.3,'HTML':52.9,'Python':51,'SQL':51,'TypeScript':38.5}#the dictionay storing language percentation
-print(languag)
 print(languag)#print the dictionary
 import numpy as np
 import matplotlib.pyplot as plt
