@@ -1,9 +1,6 @@
-#first direct the user to type in the weight and height
-# then using the bmi formula
-# using if or elif branches to tell which case people are in
-# to make output at each branch
-wt=input("weight:")
-ht=input("height:")
+#don't need pseudocode
+wt=float(input("weight:"))
+ht=float(input("height:"))
 bmi=wt/(ht*ht)          #the formula for bmi
 print("BMI:",bmi)      
 if bmi<18.5:            #less than 18.5
