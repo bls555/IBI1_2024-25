@@ -9,4 +9,8 @@ print(c<f)#print True, walk+bus is shorter than car
 X=True
 Y=False
 W=X and Y#W=False
+#X=True,  Y=False, W=False
+#X=True,  Y=True, W=True
+#X=False, Y=True, W=False
+#X=False, Y=False, W=False
 print(W)
