@@ -46,7 +46,7 @@ while t<1000:
     recovered_list.append(recovered)
 
 
-print(N_list)
+#print(N_list)
 
 plt.plot(time, susceptible_list, label='Susceptible')
 plt.plot(time, infected_list, label='Infected')
