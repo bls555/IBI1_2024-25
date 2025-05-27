@@ -1,0 +1,1 @@
+It is quite hard. A lot of information was drawn online, and much contents need self-studying. However, all in all, I enjoyed it. The important and fun thing is making images in spatial_SIR.py, using plotting tools and examing how disease spreads are inspiring.
