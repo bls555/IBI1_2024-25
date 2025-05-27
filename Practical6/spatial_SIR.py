@@ -3,7 +3,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
 from matplotlib.animation import FuncAnimation #to make dynamic animation
-
+'''
+Procedure:
+1. Import necessary libraries.
+2. Set parameters for the SIR model.
+3. Initialize a 2D grid to represent the population.
+4. Randomly select an initial infected cell.
+5. Define functions to find infected cells, infect neighbors, and recover cells.
+6. Run the simulation for a specified number of time steps.
+7. For each time step, infect neighbors of infected cells and recover infected cells.
+'''
 
 # make array of all susceptible population
 population = np.zeros( (100, 100) )
