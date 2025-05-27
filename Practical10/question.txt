@@ -1,0 +1,4 @@
+How has the relationship between the DALYs in China and the UK changed over time?
+Are they becoming more similar, less similar?
+#start from File_dalys.py line 45
+Answer:They are declining and becoming similar
