@@ -1,0 +1,14 @@
+The length is 222, subcellular location is Mitochondrion matrix
+The	range of percentage	identities	in	the	reported online	BLAST, results is 83.3 to 100.
+
+seq1 and seq2:
+score: 1.0
+percentage: 90.09009009009009 %
+seq1 and seq3:
+score: -311.0
+percentage: 9.45945945945946 %
+seq2 and seq3:
+score: -311.0
+percentage: 9.90990990990991 %
+
+The most closely related sequence is seq1 and seq2,from human and rat.
