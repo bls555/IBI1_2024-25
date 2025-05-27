@@ -1,6 +1,6 @@
 #don't need pseudocode
-wt=input("weight:")
-ht=input("height:")
+wt=float(input("weight:"))
+ht=float(input("height:"))
 bmi=wt/(ht*ht)          #the formula for bmi
 print("BMI:",bmi)      
 if bmi<18.5:            #less than 18.5
