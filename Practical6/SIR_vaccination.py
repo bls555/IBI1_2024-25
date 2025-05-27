@@ -53,6 +53,6 @@ for i, rate in enumerate(vaccination_rates):
 plt.xlabel('Time')
 plt.ylabel('Number of People')
 plt.title('SIR model with different vaccination rates')
-plt.legend(title='Vaccination Rate', bbox_to_anchor=(1.05, 1), loc='upper left')
+plt.legend(title='Vaccination Rate', bbox_to_anchor=(0.8, 1), loc='upper left')
 plt.grid(True)
 plt.show()
